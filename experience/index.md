@@ -9,7 +9,7 @@ description: A summary of my engineering work experiences.
 ---
 
 <img src="{{ '../assets/icons/werfen-icon.png' | relative_url }}" alt="Werfen Logo" style="width:200px; margin: 1rem 0; display: block;">  
-*Bedford, Massachusetts, USA*
+*Werfen - Bedford, Massachusetts, USA*
 
 ### Research and Development Intern  
 **Summer 2024 & Winter 2024**  
@@ -28,10 +28,15 @@ description: A summary of my engineering work experiences.
 - Worked with a team of four members to enhance system hardware involving motor movement.  
 - Programmed and implemented a user-friendly Python UI for system control.
 
+### Mechanical Engineering Intern 
+**Winter 2021**
+- Developed a Python script for UV intensity test data analysis.
+- Designed TMCL code for radial motions to dispense fluids.
+
 ---
 
 <img src="{{ '../assets/icons/abilitymade-icon.png' | relative_url }}" alt="AbilityMade Logo" style="width:200px; margin: 1rem 0; display: block;">
-*Sydney, Australia*
+*AbilityMade - Sydney, Australia*
 
 ### Software Engineering Intern  
 **Fall 2023**  
