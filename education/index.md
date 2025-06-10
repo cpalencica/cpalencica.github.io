@@ -10,8 +10,6 @@ description: A summary of my academic background and coursework.
 
 ## Boston University  
 
-<img src="{{ '../assets/icons/Boston-University-Logo.png' | relative_url }}" alt="Boston University Logo" style="width:250px; margin: 0.5rem 0 1.5rem 0; display: block;">
-
 *Boston, Massachusetts, USA*  
 **Bachelor of Science in Computer Engineering**  
 *Graduated: 2025*
@@ -26,11 +24,11 @@ description: A summary of my academic background and coursework.
 - High Performance Programming
 - Machine Learning
 
+<img src="{{ '../assets/icons/Boston-University-Logo.png' | relative_url }}" alt="Boston University Logo" style="width:250px; margin: 1.5rem 0 0.5rem 0; display: block;">
+
 ---
 
 ## University of Sydney – Study Abroad Program  
-
-<img src="{{ '../assets/icons/the-university-of-sydney-3-logo-black-and-white.png' | relative_url }}" alt="University of Sydney Logo" style="width:250px; margin: 0.5rem 0 1.5rem 0; display: block;">
 
 *Sydney, Australia*  
 *January 2023 – June 2023*
@@ -38,5 +36,7 @@ description: A summary of my academic background and coursework.
 ### Relevant Coursework
 - Circuits
 - Introduction to Logic Design
+
+<img src="{{ '../assets/icons/the-university-of-sydney-3-logo-black-and-white.png' | relative_url }}" alt="University of Sydney Logo" style="width:250px; margin: 1.5rem 0 0.5rem 0; display: block;">
 
 ---
