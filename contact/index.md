@@ -20,7 +20,7 @@ Feel free to reach out!
 
 ## GitHub  
 <a href="https://github.com/cpalencica" target="_blank" rel="noopener noreferrer">
-  <img src="{{ '/assets/icons/github.svg' | relative_url }}" alt="GitHub" style="width:20px; height:20px; vertical-align:middle; margin-right:6px;">
+  <img src="{{ '../assets/icons/github.svg' | relative_url }}" alt="GitHub" style="width:20px; height:20px; vertical-align:middle; margin-right:6px;">
   github.com/cpalencica
 </a>
 
