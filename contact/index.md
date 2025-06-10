@@ -30,9 +30,5 @@ Feel free to reach out!
 
 ---
 
-## Location  
-Framingham, MA, United States
-
----
 
 
