@@ -3,28 +3,29 @@ layout: default
 title: Contact
 ---
 
-# 📬 Contact Me
+# Contact Me
 
 Feel free to reach out! 
 
 ---
 
-## 📧 Email  
+## Email  
 [cristian.palencia@email.com](mailto:cristian.palencia@email.com)
 
-## 💼 LinkedIn  
+## LinkedIn  
 <a href="https://www.linkedin.com/in/cristianpalencia" target="_blank" rel="noopener noreferrer">
   <i class="fab fa-linkedin fa-lg"></i> linkedin.com/in/cristianpalencia
 </a>
 
-## 💻 GitHub  
+## GitHub  
 <a href="https://github.com/cpalencica" target="_blank" rel="noopener noreferrer">
-  <i class="fab fa-github fa-lg"></i> github.com/cpalencica
+  <img src="{{ '/assets/icons/github.svg' | relative_url }}" alt="GitHub" style="width:20px; height:20px; vertical-align:middle; margin-right:6px;">
+  github.com/cpalencica
 </a>
 
 ---
 
-## 📍 Location  
+## Location  
 Framingham, MA, United States
 
 ---
