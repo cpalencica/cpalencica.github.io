@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact
+description: Get in touch via email, LinkedIn, or GitHub.
 ---
 
 # Contact Me
