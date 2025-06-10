@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Experience
-description: A summary of my engineering internship experiences.
+description: A summary of my engineering work experiences.
 ---
 
 # Experience
