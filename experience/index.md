@@ -28,13 +28,6 @@ description: A summary of my engineering internship experiences.
 - Worked with a team of four members to enhance system hardware involving motor movement.  
 - Programmed and implemented a user-friendly Python UI for system control.
 
-### R&D Hematocrit Project – Technical and Project Lead  
-**Summer 2023 & Summer 2024**  
-- Led an intern project involving Raspberry Pi and hardware components for detecting hematocrit levels.  
-- Served as the primary programmer and hardware designer.  
-- Identified major structural issues, then designed and 3D-printed mechanical components as solutions.  
-- Presented final results to a panel of engineers and scientists.
-
 ---
 
 <img src="{{ '../assets/icons/abilitymade-icon.png' | relative_url }}" alt="AbilityMade Logo" style="width:200px; margin: 1rem 0; display: block;">
