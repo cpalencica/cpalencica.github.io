@@ -8,7 +8,7 @@ description: A summary of my engineering internship experiences.
 
 ---
 
-<img src="{{ '../assets/icons/werfen-logo.png' | relative_url }}" alt="Werfen Logo" style="width:200px; margin: 1rem 0; display: block;">  
+<img src="{{ '../assets/icons/werfen-icon.png' | relative_url }}" alt="Werfen Logo" style="width:200px; margin: 1rem 0; display: block;">  
 *Bedford, Massachusetts, USA*
 
 ### Research and Development Intern  
@@ -37,7 +37,7 @@ description: A summary of my engineering internship experiences.
 
 ---
 
-<img src="{{ '../assets/icons/abilitymade-logo.png' | relative_url }}" alt="AbilityMade Logo" style="width:200px; margin: 1rem 0; display: block;">
+<img src="{{ '../assets/icons/abilitymade-icon.png' | relative_url }}" alt="AbilityMade Logo" style="width:200px; margin: 1rem 0; display: block;">
 *Sydney, Australia*
 
 ### Software Engineering Intern  
