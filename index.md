@@ -3,13 +3,13 @@ layout: default
 title: Cristian Palencia
 ---
 
-# 👋 Hi, I'm Cristian Palencia
+# Hi, I'm Cristian Palencia
 
 Welcome to my personal website — a space where I showcase my technical work, projects, and experience as a computer engineer.
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm a recent graduate in Computer Engineering with a strong foundation in embedded systems, software development, and hardware integration. I've completed multiple internships across engineering domains and enjoy building solutions that live at the intersection of code and electronics.
 
@@ -17,7 +17,7 @@ Currently, I’m exploring opportunities in embedded software, system design, an
 
 ---
 
-## 🚀 What You’ll Find Here
+## What You’ll Find Here
 
 - **About Me** — A deeper dive into my personal story, interests, and values as an engineer.
 - **Projects** — A curated list of software, hardware, and embedded systems projects.
@@ -29,7 +29,7 @@ Currently, I’m exploring opportunities in embedded software, system design, an
 
 ---
 
-## 📌 Quick Links
+## Quick Links
 
 | Section              | Description                                                            |
 |----------------------|------------------------------------------------------------------------|
@@ -41,7 +41,7 @@ Currently, I’m exploring opportunities in embedded software, system design, an
 
 ---
 
-## 🔧 Technologies I Work With
+## Technologies I Work With
 
 - C, C++, Python, Embedded C
 - ESP32, Raspberry Pi, ARM Cortex
