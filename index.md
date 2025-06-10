@@ -1,123 +1,55 @@
 ---
 layout: default
+title: Cristian Palencia
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# 👋 Hi, I'm Cristian Palencia
 
-[Link to another page](./another-page.html).
+Welcome to my personal website — a space where I showcase my technical work, projects, and experience as a computer engineer.
 
-There should be whitespace between paragraphs.
+---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## 🧠 About Me
 
-# Header 1
+I'm a recent graduate in Computer Engineering with a strong foundation in embedded systems, software development, and hardware integration. I've completed multiple internships across engineering domains and enjoy building solutions that live at the intersection of code and electronics.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Currently, I’m exploring opportunities in embedded software, system design, and R&D engineering.
 
-## Header 2
+---
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## 🚀 What You’ll Find Here
 
-### Header 3
+- **About Me** — A deeper dive into my personal story, interests, and values as an engineer.
+- **Projects** — A curated list of software, hardware, and embedded systems projects.
+- **Experience** — Summaries of my internships and technical leadership roles.
+- **Education** — Coursework, degrees, and study abroad highlights.
+- **Contact** — Get in touch via email, LinkedIn, or GitHub.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+---
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+---
 
-#### Header 4
+## 📌 Quick Links
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+| Section              | Description                                                            |
+|----------------------|------------------------------------------------------------------------|
+| [About Me](./about)     | Learn more about my journey, motivations, and interests.              |
+| [Projects](./projects)   | Embedded systems, automation tools, and other technical builds.         |
+| [Experience](./experience) | Internship and leadership roles with engineering focus.               |
+| [Education](./education)   | Coursework, degrees, and academic highlights.                         |
+| [Contact](./contact)     | Reach out to connect or request a resume.                            |
 
-##### Header 5
+---
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## 🔧 Technologies I Work With
 
-###### Header 6
+- C, C++, Python, Embedded C
+- ESP32, Raspberry Pi, ARM Cortex
+- I2C, SPI, UART, GPIO
+- Git, Linux, Docker
+- LabVIEW, OpenCV
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+---
 
-### There's a horizontal rule below this.
+Thanks for visiting — feel free to explore and reach out!
 
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
