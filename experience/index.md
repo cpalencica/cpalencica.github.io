@@ -8,10 +8,8 @@ description: A summary of my engineering internship experiences.
 
 ---
 
-## Werfen  
+<img src="{{ '../assets/icons/werfen-logo.png' | relative_url }}" alt="Werfen Logo" style="width:200px; margin: 1rem 0; display: block;">  
 *Bedford, Massachusetts, USA*
-
-<img src="{{ '../assets/icons/werfen-logo.png' | relative_url }}" alt="Werfen Logo" style="width:200px; margin: 1rem 0; display: block;">
 
 ### Research and Development Intern  
 **Summer 2024 & Winter 2024**  
@@ -39,10 +37,8 @@ description: A summary of my engineering internship experiences.
 
 ---
 
-## AbilityMade  
-*Sydney, Australia*
-
 <img src="{{ '../assets/icons/abilitymade-logo.png' | relative_url }}" alt="AbilityMade Logo" style="width:200px; margin: 1rem 0; display: block;">
+*Sydney, Australia*
 
 ### Software Engineering Intern  
 **Fall 2023**  
