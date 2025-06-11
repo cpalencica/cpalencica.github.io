@@ -10,11 +10,11 @@ Explore my work with embedded platforms through academic, team-based, and person
 
 ---
 
-**Jump to Project:**
-[Traffic Light](#traffic-light--kernel-module) 
-[Home Security System](#home-security-system--kernel-module) 
-[Smart Pill](#ingestible-smart-pill) 
-[Smart Cat Collar](#smart-cat-collar)  
+**Jump to Project:**  
+[Traffic Light](#traffic-light--kernel-module)  
+[Home Security System](#home-security-system--kernel-module)   
+[Smart Pill](#ingestible-smart-pill)  
+[Smart Cat Collar](#smart-cat-collar)    
 [FitCat](#fitcat---activity-tracking-for-cats)  
 [Secure E-Voting](#secure-e-voting)  
 [Personal Assistive Robot](#personal-assistive-robot)
