@@ -12,7 +12,7 @@ Explore highlights from my academic, personal, and team-based projects across va
 <div style="margin: 1rem 0; padding: 0.5rem; background-color: #f4f4f4; border-radius: 8px; display: flex; flex-wrap: wrap; gap: 1rem;">
   <a href="./embedded/" style="text-decoration:none; font-weight:bold;">Embedded Systems</a>
   <a href="./CPU/" style="text-decoration:none; font-weight:bold;">CPU Architecture</a>
-  <a href="./HPP/" style="text-decoration:none; font-weight:bold;">High Performance</a>
+  <a href="./HPP/" style="text-decoration:none; font-weight:bold;">High Performance Programming</a>
   <a href="./group/" style="text-decoration:none; font-weight:bold;">Group Projects</a>
 </div>
 
@@ -26,7 +26,7 @@ Projects involving microcontrollers, hardware interfacing, IoT, and real-time sy
 ---
 
 ## CPU & Computer Architecture Projects  
-Work related to CPU design, ISA simulation, cache policies, pipelining, and related architecture topics.
+Work related to CPU design, cache policies, pipelining, and related architecture topics.
 
 [View CPU Projects](./CPU/)
 
@@ -40,7 +40,7 @@ Projects leveraging CUDA, OpenMP, and parallel computing techniques for intensiv
 ---
 
 ## Team & Group Projects  
-Collaborative coursework and hackathon-style projects completed in teams.
+Collaborative coursework and projects completed in teams.
 
 [View Group Projects](./group/)
 
