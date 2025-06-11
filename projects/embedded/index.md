@@ -29,7 +29,7 @@ This project implements a Linux kernel module that simulates a traffic light sys
 - LEDs on GPIO pins: 44 (Green), 67 (Red), 68 (Yellow)
 - Buttons on GPIO pins: 26 (Pedestrian), 46 (Mode Switch)
 
-**GitHub:** [View Repository](https://github.com/yourusername/traffic-light-kernel-module)
+**GitHub:** [View Repository](https://github.com/yourusername/traffic-light-kernel-module)  
 **Demo:** [Watch Video](https://drive.google.com/file/d/1fBGXLANkpO7i2Bp05br930pbd9TTIFEB/view?usp=sharing)
 
 <!-- ![Traffic Light](../assets/projects/traffic_light.jpg) -->
@@ -126,7 +126,7 @@ A smart cat collar that records biometric data such as temperature and activity,
 - Laptop connects via serial UART to ESP32 for real-time data visualization  
 
 **GitHub:** *[Coming Soon]*  
-**Demo:** [Demo Video](https://drive.google.com/file/d/1fDqN_OaTaeUsbGNRtM6CE7A8nKshv5VA/view?usp=sharing) 
+**Demo:** [Demo Video](https://drive.google.com/file/d/1fDqN_OaTaeUsbGNRtM6CE7A8nKshv5VA/view?usp=sharing)  
 **Presentation:** [Technical Presentation](https://drive.google.com/file/d/1aFpp11RI6BVutXHhoSuAp_-T2tGB8Q2R/view?usp=drive_link)  
 
 ---
@@ -183,7 +183,7 @@ Implemented a network of ESP32 fobs that form a P2P UDP mesh and elect a leader 
 - Raspberry Pi running Node.js server connected via WiFi  
 
 **GitHub:** *[Coming Soon]*  
-**Demo:** [Demo Video](https://youtu.be/a0FYwbCRWlc)
+**Demo:** [Demo Video](https://youtu.be/a0FYwbCRWlc)  
 **Presentation:** [Technical Presentation](https://drive.google.com/file/d/11lCbSxFivGwoJSjbmf-UDrhI10iJ07x3/view?usp=drive_link)  
 
 
