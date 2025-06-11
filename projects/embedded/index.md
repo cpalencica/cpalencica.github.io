@@ -40,7 +40,7 @@ This project implements a Linux kernel module that simulates a traffic light sys
 - LEDs on GPIO pins: 44 (Green), 67 (Red), 68 (Yellow)
 - Buttons on GPIO pins: 26 (Pedestrian), 46 (Mode Switch)
 
-**GitHub:** [View Repository](https://github.com/yourusername/traffic-light-kernel-module)  
+**GitHub:** [View Repository](https://github.com/cpalencica/TrafficLight)  
 **Demo:** [Watch Video](https://drive.google.com/file/d/1fBGXLANkpO7i2Bp05br930pbd9TTIFEB/view?usp=sharing)
 
 <!-- ![Traffic Light](../assets/projects/traffic_light.jpg) -->
@@ -223,7 +223,7 @@ Built a simple wheeled robot capable of navigating an indoor course defined by w
 - Optitrack system for precise indoor position and orientation tracking  
 
 **GitHub:** [View Repository](https://github.com/cpalencica/SelfDrivingRobot)  
-**Demo:** [Demo Video](https://drive.google.com/file/d/1pCS9vckuFYlIf6aCmPLMsRiZipL1e3xR/view?usp=drive_link) 
+**Demo:** [Demo Video](https://drive.google.com/file/d/1rrlYxpDh0yRMQ5oHlI39CxYrkYTvnkvd/view?usp=sharing) 
 
 
 ---
