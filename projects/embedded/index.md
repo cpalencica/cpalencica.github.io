@@ -93,7 +93,7 @@ The Smart Pill is an embedded system designed to monitor temperature, light, bat
 - UART task: sends formatted sensor data to host console.
 - ISRs: used for orientation and reset input handling.
 
-**GitHub:** *[Coming Soon]*  
+**GitHub:** [View Repository](https://github.com/cpalencica/SmartPill)  
 **Demo:** [Demo Video](https://drive.google.com/file/d/1Q0cmgKvMJzyynExxrp9cXvPJPhaWtwVe/view?usp=drive_link)  
 **Presentation:** [Technical Presentation](https://drive.google.com/file/d/1WAg6dNmaZUGKDJ7yxstegLMrAWHKJhu-/view?usp=sharing)
 
@@ -125,7 +125,7 @@ A smart cat collar that records biometric data such as temperature and activity,
 - Buzzer connected through L293D motor driver controlled by ESP32 GPIOs  
 - Laptop connects via serial UART to ESP32 for real-time data visualization  
 
-**GitHub:** *[Coming Soon]*  
+**GitHub:** [View Repository](https://github.com/cpalencica/SmartCatCollar)  
 **Demo:** [Demo Video](https://drive.google.com/file/d/1fDqN_OaTaeUsbGNRtM6CE7A8nKshv5VA/view?usp=sharing)  
 **Presentation:** [Technical Presentation](https://drive.google.com/file/d/1aFpp11RI6BVutXHhoSuAp_-T2tGB8Q2R/view?usp=drive_link)  
 
@@ -153,7 +153,7 @@ A multi-cat activity tracking system using ESP32 collars that send activity data
 - Router configured with SSID "Group_5" and password "smartsys," with static IP assignments and DDNS  
 - Laptop accesses the web dashboard and PiCam feed via network  
 
-**GitHub:** *[Coming Soon]*  
+**GitHub:** [View Repository](https://github.com/cpalencica/CatTracker)  
 **Demo:** [Demo Video](https://drive.google.com/file/d/1SprtTMUCdMtvfq51NJBhopZzlKO2zs8R/view)  
 **Presentation:** [Technical Presentation](https://drive.google.com/file/d/1j2x-MTZJ48Ol8Pv8gB4jjld8CJDgwwId/view?usp=drive_link) 
 
@@ -182,7 +182,7 @@ Implemented a network of ESP32 fobs that form a P2P UDP mesh and elect a leader 
 - Leader indication LEDs (red/green)  
 - Raspberry Pi running Node.js server connected via WiFi  
 
-**GitHub:** *[Coming Soon]*  
+**GitHub:** [View Repository](https://github.com/cpalencica/SecureVoting)  
 **Demo:** [Demo Video](https://youtu.be/a0FYwbCRWlc)  
 **Presentation:** [Technical Presentation](https://drive.google.com/file/d/11lCbSxFivGwoJSjbmf-UDrhI10iJ07x3/view?usp=drive_link)  
 
@@ -211,7 +211,7 @@ Built a simple wheeled robot capable of navigating an indoor course defined by w
 - Motors driven via H-bridge with PWM and GPIO control  
 - Optitrack system for precise indoor position and orientation tracking  
 
-**GitHub:** *[Coming Soon]*  
+**GitHub:** [View Repository](https://github.com/cpalencica/SelfDrivingRobot)  
 **Demo:** [Demo Video](https://drive.google.com/file/d/1pCS9vckuFYlIf6aCmPLMsRiZipL1e3xR/view?usp=drive_link) 
 
 
