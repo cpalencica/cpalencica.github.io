@@ -4,9 +4,6 @@ title: Experience
 description: A summary of my engineering work experiences.
 ---
 
-# Experience
-
----
 
 <img src="{{ '../assets/icons/werfen-icon.png' | relative_url }}" alt="Werfen Logo" style="width:200px; margin: 1rem 0; display: block;">  
 *Werfen - Bedford, Massachusetts, USA*

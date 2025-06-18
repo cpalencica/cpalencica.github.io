@@ -4,10 +4,6 @@ title: Education
 description: A summary of my academic background and coursework.
 ---
 
-# Education
-
----
-
 ## Boston University  
 
 *Boston, Massachusetts, USA*  
