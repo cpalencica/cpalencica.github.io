@@ -27,7 +27,6 @@ Currently, I’m exploring opportunities in embedded software, R&D engineering, 
 
 ---
 
----
 
 ## Quick Links
 
@@ -50,5 +49,4 @@ Currently, I’m exploring opportunities in embedded software, R&D engineering, 
 
 ---
 
-Thanks for visiting — feel free to explore and reach out!
 
