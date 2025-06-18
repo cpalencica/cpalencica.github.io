@@ -4,8 +4,6 @@ title: High Performance Programming Projects
 description: Projects focused on optimizing numerical algorithms using parallelism and memory hierarchy techniques on multicore CPUs and GPUs.
 ---
 
-# High Performance Programming Projects
-
 These projects explore algorithmic and architectural optimizations for computationally intensive problems. They demonstrate my ability to accelerate performance through multithreading, memory blocking, OpenMP, CUDA, and cache-aware strategies.
 
 ---
@@ -39,9 +37,9 @@ This project explores a wide range of performance optimizations for dense matrix
   - Global kernel uses direct global memory access  
   - Shared memory kernel employs tiling for memory coalescing and reduced latency  
 
-- **Dense MMM with MPI + OpenMP (SUMMA):**  
+- **Dense MMM through SUMMA's algorithm (MPI):**  
   - Distributed matrix multiplication using 2D process grids  
-  - Local submatrix multiplication parallelized with OpenMP  
+  - Local submatrix multiplication parallelized with MPI
   - Overlapped communication and computation for scalability 
 
 ---
@@ -57,15 +55,17 @@ Parallelized the Successive Over-Relaxation method for solving Laplace-like prob
 
 **Technologies Used:** C, POSIX Threads (pthreads), OpenMP, CUDA
 
-**Optimizations Explored:**
-- **Pthreads Version:** Manual thread management with barriers and careful partitioning  
-- **OpenMP Version:** Loop parallelization and scheduling strategies for shared-memory systems  
-- **CUDA Version:** GPU acceleration with global memory access and coalesced reads  
+### Optimization Approaches
 
-**Evaluation Metrics:**
-- Total runtime vs. baseline serial version  
-- GPU memory access efficiency
-- Thread scaling behavior on multicore CPU
+- **Pthreads SOR:**  
+    - Manual thread management with barriers and careful partitioning  
+
+- **OpenMP SOR:**  
+    - Loop parallelization and scheduling strategies for shared-memory systems  
+
+- **CUDA SOR:**  
+    - GPU acceleration with global memory access and coalesced reads  
+
 
 **GitHub:** [View Repository](https://github.com/cpalencica/SORoptimizations)  
 

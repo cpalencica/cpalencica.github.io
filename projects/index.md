@@ -4,8 +4,6 @@ title: Projects
 description: A collection of technical projects across embedded systems, computer architecture, high-performance computing, and more.
 ---
 
-# Projects
-
 Explore highlights from my academic, personal, and team-based projects across various domains of computer engineering.
 
 <!-- Top Navigation Bar linking directly to project subpages -->

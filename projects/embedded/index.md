@@ -4,8 +4,6 @@ title: Embedded Systems Projects
 description: Projects focused on microcontrollers, IoT, real-time systems, and embedded hardware/software integration.
 ---
 
-# Embedded Systems Projects
-
 Explore my work with embedded platforms through academic, team-based, and personal projects involving real-time systems, IoT, and hardware-software co-design.
 
 ---
@@ -98,12 +96,6 @@ The Smart Pill is an embedded system designed to monitor temperature, light, bat
 - Button to reset system state
 - Red, Green, Blue LEDs
 
-**Software Overview:**
-- Sensor tasks: read analog inputs and update global variables.
-- LED task: updates pill status based on light thresholds and reset input.
-- UART task: sends formatted sensor data to host console.
-- ISRs: used for orientation and reset input handling.
-
 **GitHub:** [View Repository](https://github.com/cpalencica/SmartPill)  
 **Demo:** [Demo Video](https://drive.google.com/file/d/1Q0cmgKvMJzyynExxrp9cXvPJPhaWtwVe/view?usp=drive_link)  
 **Presentation:** [Technical Presentation](https://drive.google.com/file/d/1WAg6dNmaZUGKDJ7yxstegLMrAWHKJhu-/view?usp=sharing)
@@ -124,17 +116,16 @@ A smart cat collar that records biometric data such as temperature and activity,
 - Real-time biometric data collection (temperature, activity level)  
 - Accelerometer-based activity detection with three states: Highly Active, Active, Not Active  
 - Alphanumeric LED display shows cat’s name, activity status, and time spent in activity  
-- Button-triggered display updates using GPIO interrupts  
 - Thermistor for temperature measurement using voltage divider and ADC  
 - Node.js server with Socket.io streams data to a web interface visualized with CanvasJS  
-- Buzzer controlled via L293D H-bridge for alerts  
+- Buzzer controlled via L293D H-bridge for alerts
 
 **Hardware Setup:** 
 - ESP32 microcontroller with I2C-connected ADXL343 accelerometer and 14-segment alphanumeric display  
 - Thermistor connected to ADC pin via voltage divider circuit  
-- Push button connected to GPIO for display control  
+- Push button connected to GPIO 
 - Buzzer connected through L293D motor driver controlled by ESP32 GPIOs  
-- Laptop connects via serial UART to ESP32 for real-time data visualization  
+- Laptop connects via serial UART to ESP32 for real-time data logging
 
 **GitHub:** [View Repository](https://github.com/cpalencica/SmartCatCollar)  
 **Demo:** [Demo Video](https://drive.google.com/file/d/1fDqN_OaTaeUsbGNRtM6CE7A8nKshv5VA/view?usp=sharing)  
@@ -161,7 +152,7 @@ A multi-cat activity tracking system using ESP32 collars that send activity data
 **Hardware Setup:**   
 - ESP32-based Cat Trackers with accelerometers, 14-segment alphanumeric displays, and buzzers  
 - Raspberry Pi running Node.js server and PiCam streaming video feed  
-- Router configured with SSID "Group_5" and password "smartsys," with static IP assignments and DDNS  
+- Router configured with SSID "Group_5" and password "smartsys", with static IP assignments and DDNS  
 - Laptop accesses the web dashboard and PiCam feed via network  
 
 **GitHub:** [View Repository](https://github.com/cpalencica/CatTracker)  
@@ -179,24 +170,23 @@ Implemented a network of ESP32 fobs that form a P2P UDP mesh and elect a leader 
 **Technologies Used:** ESP32, Raspberry Pi, Node.js, UDP networking, IR communication, Bully Algorithm, Socket.io, CanvasJS, TingoDB, WiFi
 
 **Key Features:**  
-- P2P UDP heartbeat communication among ESP32 fobs for leader election via Bully Algorithm  
+- P2P UDP communication among ESP32 fobs for leader election via Bully Algorithm  
 - IR signal voting interface with visual vote options indicated by LEDs cycling every 4 seconds  
 - Leader node aggregates votes and confirms vote reception to senders  
 - Node.js server collects vote data and displays real-time results and logs in a browser  
-- Hash table for IP to ESP32 ID mapping and active peer detection using UDP timeouts  
+- Hash table for IP to ESP32 ID mapping and active peer detection using UDP timeouts 
+- TingoDB stores data and handles database inquiries.
 - Web interface uses Socket.io and CanvasJS for live vote visualization  
-- Security considerations include device ID spoofing, IR eavesdropping, and Wi-Fi deauthentication mitigation
 
 **Hardware Setup:**  
 - ESP32 fobs with IR LED/receiver controlled by PWM via H-Bridge  
-- Voting LEDs (red/green/blue) on sender fobs cycling through options  
+- Voting LEDs (red/green/blue) on sender fobs cycling through voting options  
 - Leader indication LEDs (red/green)  
 - Raspberry Pi running Node.js server connected via WiFi  
 
 **GitHub:** [View Repository](https://github.com/cpalencica/SecureVoting)  
 **Demo:** [Demo Video](https://youtu.be/a0FYwbCRWlc)  
 **Presentation:** [Technical Presentation](https://drive.google.com/file/d/11lCbSxFivGwoJSjbmf-UDrhI10iJ07x3/view?usp=drive_link)  
-
 
 
 ---

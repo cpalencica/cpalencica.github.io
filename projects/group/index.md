@@ -6,7 +6,7 @@ description: Projects that highlight exceptional group work compared to other pr
 
 # Portable Language Translator
 
-**Team Members:** Cristian Palencia, [Include teammate names here if desired]  
+**Team Members:** Cristian Palencia, Andrew Nguyen, Yohan Kim, Ryan Liao
 **Date:** Spring 2025  
 **Project Type:** Group Capstone Project
 
@@ -45,22 +45,11 @@ The Portable Language Translator is a wearable system that facilitates real-time
 
 **UI Built With:** PyQt5  
 - Tabs: Translation | WiFi | Settings  
-- Physical toggle button switches between ASL and Speech modes  
+- Software toggle button switches between ASL and Speech modes  
 
 ---
 
-## Known Challenges & Technical Constraints
-
-- **Internet Dependency:** Required for speech translation APIs  
-- **Limited ASL Vocabulary:** Only 5 gestures recognized offline  
-- **Battery Life:** ~3.1 hours on full charge  
-- **Latency:** Speech (0.3–1.9s), ASL (~2.5s)  
-- **Heat Buildup:** Raspberry Pi 5 heats up during extended use  
-- **Audio/Video Limitations:** Background noise and poor lighting reduce accuracy  
-
----
-
-### Future Work & Recommendations
+### Future Work
 
 - Expand ASL vocabulary to recognize more gestures  
 - Integrate offline translation models for fully disconnected use  

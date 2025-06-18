@@ -4,8 +4,6 @@ title: CPU Design & Architecture Projects
 description: Projects exploring computer architecture, CPU design, and cache optimization.
 ---
 
-# CPU Design & Architecture Projects
-
 Explore my work in computer architecture through digital CPU design, simulation environments, and memory hierarchy optimizations. These projects demonstrate an understanding of low-level systems, RTL design, and performance-enhancing strategies for modern computing systems.
 
 ---
@@ -24,9 +22,9 @@ Designed and implemented a custom 5-stage pipelined CPU in Verilog to execute a 
 **Technologies Used:** Verilog, RISC-V, ModelSim, Quartus, 5-Stage Pipeline
 
 **Key Features:**
-- Implements a 5-stage RISC-V pipeline: IF, ID, EX, MEM, WB  
+- Implements a 5-stage RISC-V pipeline: Instruction Fetch, Instruction Decode, Execute, Memory, and Write Back  
 - Data hazard handling via forwarding and hazard detection units  
-- Branch prediction with PC muxing logic and control flow resolution in the ID stage  
+- Branch prediction with PC muxing logic and control flow resolution in the Instruction Decode stage  
 - Synchronous instruction and data memory modules  
 - Testbench-driven validation using ModelSim  
 - Final implementation runs RISC-V assembly programs with correct cycle timing
@@ -51,8 +49,7 @@ Implemented the Least Frequently Used with Dynamic Aging (LFUDA) cache replaceme
 **Key Features:**
 - Modified gem5’s cache replacement interface to support LFUDA  
 - Maintains aging-adjusted frequency counters to prioritize evictions  
-- Integrated into gem5’s LRU replacement framework using custom policy hooks  
-- Evaluated against LRU and LFU using SPEC-like traces  
+- Integrated into gem5’s LRU replacement framework using custom policy hooks    
 - Demonstrated improvement in hit rate and reduced cache pollution in select workloads
 
 **Implementation Details:**
