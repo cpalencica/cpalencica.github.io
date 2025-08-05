@@ -104,7 +104,7 @@ Created a Python GUI application for the P1A system that enables users—especia
 **Description:**  
 Developed an automated analysis tool for medical disks that integrates computer vision with hardware control and precision measurement. The system used object detection to locate disks on a tray and coordinated motorized movements and measurements through LabVIEW and Python integration.
 
-**Technologies Used:** Python (Computer Vision), LabVIEW, Thorlabs Motor Controller, Keyence Laser Interferometry Device
+**Technologies Used:** Python (OpenCV), LabVIEW, Thorlabs Motor Controller, Keyence Laser Interferometry Device
 
 **Key Features:**
 - Automated disk detection using computer vision for precise positioning  
@@ -117,3 +117,6 @@ Developed an automated analysis tool for medical disks that integrates computer 
 - Thorlabs Motor Controller managing tray movement  
 - Keyence Laser Interferometry device for high-precision analysis
 - Camera system feeding images into Python CV pipeline for disk detection
+
+**GitHub:** [View Repository](https://github.com/cpalencica/ComponentEvaluation)
+
