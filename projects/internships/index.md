@@ -102,22 +102,18 @@ Created a Python GUI application for the P1A system that enables users—especia
 ## Component Evaluation
 
 **Description:**  
-Benchmarked multiple hardware components under standardized test conditions to inform vendor selection and system integration. Evaluated sensors, ADCs, and power regulators for performance, stability, and noise characteristics.
+Developed an automated analysis tool for medical disks that integrates computer vision with hardware control and precision measurement. The system used object detection to locate disks on a tray and coordinated motorized movements and measurements through LabVIEW and Python integration.
 
-**Technologies Used:** Python, Excel, Multimeter, Oscilloscope, MATLAB, Bench Power Supplies
+**Technologies Used:** Python (Computer Vision), LabVIEW, Thorlabs Motor Controller, Keyence Laser Interferometry Device
 
 **Key Features:**
-- Created test harness for repeated data acquisition  
-- Measured thermal drift, resolution, and startup latency  
-- Documented and compared performance across vendors  
-- Created summary report with rankings and recommendations
+- Automated disk detection using computer vision for precise positioning  
+- Integration of LabVIEW and Python to coordinate hardware control and data acquisition  
+- Motor control of tray positioning via Thorlabs Motor Controller based on detected disk locations  
+- Measurement and analysis performed by Keyence Laser Interferometry after each motor movement
+- Real-time logging and scoring of measurement data stored in CSV files for post-processing
 
 **Hardware Setup:**  
-- Breadboard/PCB with interchangeable component sockets  
-- Power supply sweep testing  
-- Logging via Python and USB-to-UART interface
-
-**Outcome:**  
-Informed design decisions for upcoming product revision. Contributed to supplier qualification and BOM optimization.
-
----
+- Thorlabs Motor Controller managing tray movement  
+- Keyence Laser Interferometry device for high-precision analysis
+- Camera system feeding images into Python CV pipeline for disk detection
