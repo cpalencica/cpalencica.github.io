@@ -43,3 +43,10 @@ Collaborative coursework and projects completed in teams.
 [View Group Projects](./group/)
 
 ---
+
+## Internship Projects  
+Selected technical work from industry internships, focused on software engineering, embedded systems, R&D, and interdisciplinary collaboration.
+
+[View Internship Projects](./internships/)
+
+---
