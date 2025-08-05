@@ -83,12 +83,12 @@ Created a Python GUI application for the P1A system that enables users—especia
 <table align="center">
   <tr>
     <td style="text-align: center; padding-right: 20px;">
-      <img src="../assets/icons/command.png" width="300px" alt="Command Tab">
+      <img src="../../assets/icons/command.png" width="300px" alt="Command Tab">
       <br>
       Command Tab
     </td>
     <td style="text-align: center; padding-left: 20px;">
-      <img src="../assets/icons/sequence.png" width="300px" alt="Sequencing Tab">
+      <img src="../../assets/icons/sequence.png" width="300px" alt="Sequencing Tab">
       <br>
       Sequencing Tab
     </td>
