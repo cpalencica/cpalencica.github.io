@@ -12,6 +12,8 @@ Explore highlights from my academic, personal, and team-based projects across va
   <a href="./CPU/" style="text-decoration:none; font-weight:bold;">CPU Architecture</a>
   <a href="./HPP/" style="text-decoration:none; font-weight:bold;">High Performance Programming</a>
   <a href="./group/" style="text-decoration:none; font-weight:bold;">Group Projects</a>
+  <a href="./internships/" style="text-decoration:none; font-weight:bold;">Internship Projects</a>
+
 </div>
 
 ---
